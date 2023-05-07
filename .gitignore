@@ -1,0 +1,21 @@
+### built-in files
+**/__pycache__
+**/.DS_Store
+**/.ipynb_checkpoints
+**/.vscode
+
+### setup build files
+**/build
+**/dist
+**/*egg-info
+
+### project-related files
+**/data
+**/download
+**/exp*
+**/*.bak
+**/*.test
+**/*.log
+**/*.zip
+**/*.jsonl
+**/*.jsonl.gz
